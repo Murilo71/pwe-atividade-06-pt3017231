@@ -1,4 +1,4 @@
-let nome = "Marcelo Agante";
+let nome = "Murilo Souza";
 let nota1 = 7;
 let nota2 = 8;
 
@@ -10,3 +10,4 @@ alert("Nome do aluno: " + nome)
 alert("Nota 1: " + nota1)
 alert("Nota 2: " + nota2)
 alert("Nota total: " + somaNotas)
+
